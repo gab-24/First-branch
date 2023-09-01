@@ -1,2 +1,2 @@
 # first-branch
-Persona repository
+Personal repository and my first experience 
